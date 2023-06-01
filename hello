@@ -4,5 +4,9 @@ git
 new commit
 new
 git
+<<<<<<< HEAD
 hello
 
+=======
+hi
+>>>>>>> master
